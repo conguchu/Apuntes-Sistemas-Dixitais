@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "6a8d21bbc87369b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35b6d3fb4c822fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2207582938256c21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "828a66e5e31b4561",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d689ee33ad1037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9369f8e56e9d372c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3d9051b039cd1208",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "00ad1f8b66cad815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.60918045043945
+  },
+  "right": {
+    "id": "b9cafad16b1d701b",
+    "type": "split",
+    "children": [
+      {
+        "id": "303be22c829049ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233c9cf27ddb8a3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a0c04e111ac8d039",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tema 1 - Introducción a los sistemas digitales/2.1 Formas de onda en un sistema binario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "15b2cb6cd5d85dfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ed7507cde64ab7a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "76094eadea23be5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "5139fc64e40ff906",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5139fc64e40ff906",
+  "lastOpenFiles": [
+    "img/{B2027F56-B1AD-4A34-A586-753E1D3405FC}.png",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/7. Conjuntos completos de puertas.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.2 Equivalencias entre puertas.md",
+    "img/{61ACC31C-453D-403A-9E8E-E6B856DE0E51}.png",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.3 Puerta AND.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.5 Puerta NAND.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.6 Puerta NOR.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.7 Puerta XNOR o EXNOR.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/6. Mapas de Karnaugh.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/3. Teoremas fundamentales del álgebra de Boole.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/2. Postulados del álgebra de Boole.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.2 Puerta OR.md",
+    "img/{367611AD-7D30-4C58-AC21-6018195A3994}.png",
+    "img/{83ED4E78-224A-4486-8AEB-ACCCACDB835E}.png",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.4 Puerta XOR o EXOR.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/1.1.1 Puerta NOT o inversor.md",
+    "img/{8919DED1-9581-4555-813C-EE51541D7DE8}.png",
+    "img/{E0BCAED2-7E0A-4D21-8669-DB999CDD74AB}.png",
+    "img/{B5008031-0632-406A-A91E-8E49943DE299}.png",
+    "img/{A24596C1-77CB-4637-ABFE-9CCCEB1A4176}.png",
+    "img/mapa en POS.png",
+    "img/mapa resuelto SOP.png",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/4.1 Formas algebraicas de las funciones de conmutación.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/4. Funciones de conmutación.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales/5. Simplificación de expresiones lógicas.md",
+    "Tema 3.pdf",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.7 Código de gray.md",
+    "Tema 3 - Análisis y síntesis de circuitos lógicos combinacionales",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.4 Sistema de numeración hexadecimal.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.2.6 Operaciones aritméticas en SM.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.2.5 Operaciones aritmétiacas en C1.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.2.4 Operaciones aritméticas en C2.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/1. Sistemas de numeracion.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2 Sistema de numeración posicional.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.1 Sistema decimal.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.2.1 Operaciones en binario.md",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/2.2.2 Overflow en operaciones binarias.md",
+    "Sin título.base",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos/Sistemas de representación",
+    "Tema 2 - Sistemas de numeración, aritmética y códigos",
+    "img",
+    "Tema 1 - Introducción a los sistemas digitales",
+    "desktop.ini"
+  ]
+}
